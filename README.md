@@ -1,0 +1,2 @@
+# djangoproejct
+for practice 
